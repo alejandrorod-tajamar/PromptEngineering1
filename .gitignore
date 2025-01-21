@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!05_OpenAI_parameters.ipynb
+!requirements.txt
+
+# Ensure .gitignore itself is not ignored
+!.gitignore
