@@ -1,4 +1,4 @@
-# Embeddings 2
+# Prompt Engineering 1
 
 Para probar este proyecto, estos son los pasos a seguir:
 
